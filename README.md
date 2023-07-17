@@ -1,2 +1,2 @@
 # productsAPI
-checkout only_backend repo for different versions
+checkout "product api versions" repo for different versions
